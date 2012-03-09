@@ -1,0 +1,5 @@
+This is a project to create a nice xhtml and style files for an e-book version of Thomas Watson's "A Godly Mans Picture"
+
+Currently, the html file was previously generated using a not so nice WYSIWYG editor. With a bit of hacking, I was able to produce something that could be imported and converted by Calibre to a Mobi file for my Kindle. As I thought others might be interested in doing the same, or helping to improve the current document, I thought I would put this up here.
+
+Right now, you should download the html file, add it to Calibre, and do a conversion to Mobi. For chapters, use "//h:h1 | //h:h2". I will eventually put up the actual Mobi file for others to download if they wish. 
