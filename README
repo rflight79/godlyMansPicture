@@ -2,7 +2,6 @@ This is a project to create a nice xhtml and style files for an e-book version o
 
 Thanks to Grace Gems for generating the first version of this file. You can see it here: http://www.gracegems.org/Watson/godly_mans_picture.htm
 
-Currently, the html file was previously generated using a not so nice WYSIWYG editor. With a bit of hacking, I was able to produce something that could be imported and converted by Calibre to a Mobi file for my Kindle. As I thought others might be interested in doing the same, or helping to improve the current document, I thought I would put this up here.
+Currently working on editing out characters that show up as "?" in the HTML.
 
-Right now, you should download the html file, add it to Calibre, and do a conversion to Mobi. For chapters, use "//h:h1 | //h:h2". I will eventually put up the actual Mobi file for others to download if they wish. 
-
+All of the style is still contained in the HTML. My goal is to style this using CSS and divs, and make the color scheme a little less "colorful".
