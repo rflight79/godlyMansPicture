@@ -5,5 +5,3 @@ Thanks to Grace Gems for generating the first version of this file. You can see 
 Currently working on editing out characters that show up as "?" in the HTML.
 
 All of the style is still contained in the HTML. My goal is to style this using CSS and divs, and make the color scheme a little less "colorful".
-
-test commit
